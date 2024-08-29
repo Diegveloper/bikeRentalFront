@@ -1,8 +1,16 @@
-<div class="card" >
-  <img src="https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto" class="card-img-top" alt="stumpjumper">
-  <div class="card-body">
-    <h5 class="card-title">Stumpjumper</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Rent</a>
+<div style="margin-top:20px">
+  <div class="card" >
+    <img [src]="imageUrl" class="card-img-top" alt="stumpjumper">
+    <div class="card-body">
+      <h6 class="card-subtitle mb-2 text-body-secondary">{{bike.brand}}</h6>
+      <h5 class="card-title">{{bike.name}}</h5>
+
+
+      <!-- <h5 class="card-title bg-secondary">{{bike.name}}</h5> -->
+      <p class="card-text">{{bike.description}}</p>
+      <a href="#" class="btn btn-primary">Rent</a>
+    </div>
   </div>
 </div>
+
+

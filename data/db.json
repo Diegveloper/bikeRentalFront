@@ -1,0 +1,184 @@
+{
+  "bikes": [
+    {
+      "id": "2",
+      "name": "Fuel EX",
+      "brand": "Trek",
+      "image": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_800,h_600,c_pad/FuelEX5Deore_22_33073_B_Primary",
+      "description": "Versatile mountain bike for all trails",
+      "unitsAvailable": 5,
+      "review": 4.5
+    },
+    {
+      "id": "3",
+      "name": "Bronson",
+      "brand": "Santa Cruz",
+      "image": "https://thebikehood.com/cdn/shop/files/santa-cruz-bicycles-santa-cruz-bronson-41-c-2024-m.jpg?v=1691393675",
+      "description": "All-mountain bike with superior handling",
+      "unitsAvailable": 4,
+      "review": 4.8
+    },
+    {
+      "id": "4",
+      "name": "Mach 5.5",
+      "brand": "Pivot",
+      "image": "https://d2yn9m4p3q9iyv.cloudfront.net/pivot/2019/mach-5.5-carbon-team-xx1-axs/thumbs/1000/a4c78.jpeg",
+      "description": "Trail bike with smooth suspension",
+      "unitsAvailable": 2,
+      "review": 4.7
+    },
+    {
+      "id": "5",
+      "name": "Ripmo",
+      "brand": "Ibis",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro bike built for aggressive riding",
+      "unitsAvailable": 6,
+      "review": 4.6
+    },
+    {
+      "id": "6",
+      "name": "Reign",
+      "brand": "Giant",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro machine with plush travel",
+      "unitsAvailable": 3,
+      "review": 4.4
+    },
+    {
+      "id": "7",
+      "name": "Spectral",
+      "brand": "Canyon",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Trail bike with agile handling",
+      "unitsAvailable": 4,
+      "review": 4.5
+    },
+    {
+      "id": "8",
+      "name": "Slash",
+      "brand": "Trek",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro bike designed for speed",
+      "unitsAvailable": 3,
+      "review": 4.7
+    },
+    {
+      "id": "9",
+      "name": "Altitude",
+      "brand": "Rocky Mountain",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "All-rounder with advanced suspension",
+      "unitsAvailable": 2,
+      "review": 4.6
+    },
+    {
+      "id": "10",
+      "name": "SB130",
+      "brand": "Yeti",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Trail bike with progressive geometry",
+      "unitsAvailable": 5,
+      "review": 4.9
+    },
+    {
+      "id": "11",
+      "name": "Tracer",
+      "brand": "Intense",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro bike with aggressive stance",
+      "unitsAvailable": 3,
+      "review": 4.7
+    },
+    {
+      "id": "12",
+      "name": "Process 153",
+      "brand": "Kona",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro bike with balanced geometry",
+      "unitsAvailable": 6,
+      "review": 4.5
+    },
+    {
+      "id": "13",
+      "name": "Jeffsy",
+      "brand": "YT Industries",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Trail bike for technical descents",
+      "unitsAvailable": 4,
+      "review": 4.8
+    },
+    {
+      "id": "14",
+      "name": "Patrol",
+      "brand": "Transition",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro bike with progressive suspension",
+      "unitsAvailable": 2,
+      "review": 4.6
+    },
+    {
+      "id": "15",
+      "name": "Megatower",
+      "brand": "Santa Cruz",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro bike with long-travel capability",
+      "unitsAvailable": 3,
+      "review": 4.7
+    },
+    {
+      "id": "16",
+      "name": "Instinct",
+      "brand": "Rocky Mountain",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Trail bike for all-day adventures",
+      "unitsAvailable": 5,
+      "review": 4.6
+    },
+    {
+      "id": "17",
+      "name": "Rallon",
+      "brand": "Orbea",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro bike with modern geometry",
+      "unitsAvailable": 4,
+      "review": 4.7
+    },
+    {
+      "id": "18",
+      "name": "SB150",
+      "brand": "Yeti",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro bike with top-notch performance",
+      "unitsAvailable": 2,
+      "review": 4.9
+    },
+    {
+      "id": "19",
+      "name": "Strive",
+      "brand": "Canyon",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro bike with race-ready geometry",
+      "unitsAvailable": 3,
+      "review": 4.8
+    },
+    {
+      "id": "20",
+      "name": "Nomad",
+      "brand": "Santa Cruz",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "Enduro bike for aggressive riders",
+      "unitsAvailable": 5,
+      "review": 4.7
+    },
+    {
+      "id": "21",
+      "name": "Enduro",
+      "brand": "Specialized",
+      "image": "https://assets.specialized.com/i/specialized/93321-50_SJ-COMP-SMK-CLGRY-CARB_HERO?$scom-pdp-gallery-image$&fmt=auto",
+      "description": "High-performance enduro bike",
+      "unitsAvailable": 4,
+      "review": 4.8
+    }
+  ]
+}
