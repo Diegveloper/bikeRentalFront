@@ -4,6 +4,6 @@ export interface Bike {
   brand:          string;
   image:          string;
   description:    string;
-  unitsAvailable: number;
+  units: number;
   review:         number;
 }
