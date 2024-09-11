@@ -1,0 +1,20 @@
+<div class="d-flex justify-content-center align-items-center min-vh-100">
+  <div class="card shadow" style="width: 22rem;">
+    <div class="card-body">
+      <h5 class="card-title text-center">Login</h5>
+      <form [formGroup]="loginForm">
+        <div class="mb-3">
+          <label for="id" class="form-label">GCN number</label>
+          <input type="id" class="form-control" formControlName="id" id="id" placeholder="*number in the back of card" required>
+        </div>
+        <div class="mb-3">
+          <label for="PIN" class="form-label">PIN</label>
+          <input type="password" class="form-control" formControlName="pin" id="pin" placeholder="PIN" required>
+        </div>
+        <div class="d-grid">
+          <button type="submit" (click)="onLogin()" class="btn btn-primary">Login</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
